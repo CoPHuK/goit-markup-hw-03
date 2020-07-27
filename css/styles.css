@@ -58,9 +58,6 @@ h2 {
   padding: 0px;
   margin: 0px;
 }
-section {
-  outline: auto;
-}
 
 /* Все ссылки */
 
@@ -266,8 +263,7 @@ footer .container {
   margin-top: 20px;
   justify-content: space-between;
 }
-.networks li:not(:last-child)
-{
+.networks li:not(:last-child) {
   margin-right: 10px;
 }
 footer a {
